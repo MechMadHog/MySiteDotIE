@@ -1,8 +1,15 @@
-# Website Coming Soon...
+# michaelmacdonagh.ie
 
-## michaelmacdonagh.ie
+> Website Coming Soon...
 
-Please Feel Free to Contact Me On Any Of The Following Platforms:
+**Mike MacDonagh**
+
+- [My GitHub Profile](https://github.com/MechMadHog "Mike MacDonagh")
+- [Send Me an Email](mailto:michael@mechmadhog.com?subject=Hi% "Hi Mike!")
+- [Visit my Dot NET site](https://mechmadhog.com "Visit My Other Test Sites")
+- [Visit my Dot IE site](https://michaelmacdonagh.net "Visit My Other Test Sites")
+
+> Please Feel Free to Contact Me On Any Of The Following Platforms:
 
 ### Twitter:
 https://twitter.com/MechMadHog
